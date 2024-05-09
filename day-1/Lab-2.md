@@ -1,6 +1,6 @@
 #### Lab 2
 
->Pre-requite : must have an azure subscription. plesase register to [Azure Portal](https://portal.azure.com/#home) and try to get a trial subscription which free for a month.
+>Pre-requite : must have an azure subscription. plesase register to [Azure Portal](https://portal.azure.com/#home) and try to get a trial subscription which is free for a month.
 
 1. Go to azure portal and open cloud shell and run below command/script
 
