@@ -13,3 +13,9 @@
   Automation is a core principle of DevOps. By automating repetitive tasks such as building, testing, and deploying software, teams can increase efficiency, reduce errors, and deliver software faster and more reliably. Automation also enables continuous integration and continuous delivery (CI/CD) pipelines, which are essential for DevOps practices.
 
 - **Perform [Lab-2](Lab-2.md)**
+- **The WhatsApp story of 40+ managing the whole company**
+- **DevOps areas of concern**
+  DevOps manjor areas are
+  * Infrastructure Orchestration and Provisioning (IaC- Infrastrure as Code Practice, DSC- Desires State Configuartion)
+  * Application Deployment (CI/CD - Continuous Integration and Continuous deployment)
+  * Reliability Engineering (Continous Monitoring, Self Healing, AIOps)
