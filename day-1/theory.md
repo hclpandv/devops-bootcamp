@@ -11,3 +11,5 @@
 
 - **Automate everything but why?**
   Automation is a core principle of DevOps. By automating repetitive tasks such as building, testing, and deploying software, teams can increase efficiency, reduce errors, and deliver software faster and more reliably. Automation also enables continuous integration and continuous delivery (CI/CD) pipelines, which are essential for DevOps practices.
+
+- **Perform [Lab-2](Lab-2.md)**
