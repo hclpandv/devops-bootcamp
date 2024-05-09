@@ -9,9 +9,3 @@
     
 - **Automate everything but why?**
   Automation is a core principle of DevOps. By automating repetitive tasks such as building, testing, and deploying software, teams can increase efficiency, reduce errors, and deliver software faster and more reliably. Automation also enables continuous integration and continuous delivery (CI/CD) pipelines, which are essential for DevOps practices.
-
-- **Understand `monolith` and `microservice`.**
-  
-
-- **Understand `docker`.**
-  Docker is a platform for developing, shipping, and running applications in containers. Containers are lightweight, portable, and isolated environments that package an application and its dependencies, allowing it to run consistently across different environments. Docker simplifies the process of building, deploying, and managing applications by providing a standardized way to package and distribute software.
